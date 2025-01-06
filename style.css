@@ -257,7 +257,12 @@ section h2 {
   .ingredients,
   .instructions,
   .nutrition {
-    margin: 0 40px 40px 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  .nutrition {
+    margin-bottom: 40px;
   }
 
   hr {
