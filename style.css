@@ -240,14 +240,14 @@ hr {
   height: 1px;
 }
 
-/* .attribution {
+.attribution {
   font-size: 11px;
   text-align: center;
   margin-top: 24px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
-} */
+}
 
 @media (max-width: 600px) {
   body {
@@ -280,8 +280,8 @@ hr {
     width: 80%;
   }
 
-  /* .attribution {
+  .attribution {
     margin-top: 32px;
     margin-bottom: 32px;
-  } */
+  }
 }
